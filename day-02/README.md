@@ -1,4 +1,4 @@
-# Day 02: Filter gifts
+# Day 02: Manufacture gifts
 ## Instructions
 Santa's factory has started to receive the toy production list. Each line indicates which toy must be manufactured and how many units.  
 
